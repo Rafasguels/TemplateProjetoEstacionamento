@@ -1,0 +1,11 @@
+cadastro do ciente colocar vinculo pela placa 
+
+Gerar ticket de acesso
+
+selecionar vagas no sistema
+
+encerrar serviço
+
+Historico gerar relatorio
+
+tirar o verificar
